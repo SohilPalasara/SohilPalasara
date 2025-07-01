@@ -1,8 +1,10 @@
 <h2 align="left"></h2>
 
 ###
-
-<div align="center">
+<div align="left">
+  <img height="300" src="C:/Users/Bci/OneDrive/Pictures/profile.jfif"  />
+</div>
+<div align="right">
   <img height="300" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"  />
 </div>
 
