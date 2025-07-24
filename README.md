@@ -1,5 +1,6 @@
+<!-- 🔥 Banner -->
 <div align="center">
-  <img src="https://i.imgur.com/O9b3xwD.gif" width="100%" height="300" />
+  <img src="https://i.pinimg.com/originals/44/59/99/44599943a27e918b54ae94e6b2902d9c.gif" width="100%" height="300"/>
 </div>
 
 
