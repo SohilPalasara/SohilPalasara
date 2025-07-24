@@ -1,6 +1,4 @@
-<!-- Banner -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Sohil+Palasara;Java+%7C+Spring+Boot+%7C+SQL+Developer;&center=true&width=500&height=45" />
+
 </div>
 <!-- 🔥 Banner -->
 <div align="center">
@@ -14,6 +12,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Backend+Developer+%F0%9F%92%BB;Java+%7C+Spring+Boot+%7C+MySQL+%7C+Docker+%7C+REST+API" />
 </div>
+<!-- Banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Sohil+Palasara;Java+%7C+Spring+Boot+%7C+SQL+Developer;&center=true&width=500&height=45" />
 
 ---
 
