@@ -1,3 +1,7 @@
+<!-- Banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'm+Sohil+Palasara;Java+%7C+Spring+Boot+%7C+SQL+Developer;&center=true&width=500&height=45" />
+</div>
 <!-- 🔥 Banner -->
 <div align="center">
   <img src="https://i.pinimg.com/originals/44/59/99/44599943a27e918b54ae94e6b2902d9c.gif" width="100%" height="300"/>
