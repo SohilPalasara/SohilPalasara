@@ -20,10 +20,10 @@
 
 <!-- Developer Image & About Section Side-by-Side -->
 <!-- Developer Image & About Section Side-by-Side -->
-<div align="center">
+<div align="left">
   <table>
     <tr>
-      <td align="left" width="50%">
+      <td align="left">
         <h3>🙋‍♂️ About Me</h3>
         <ul>
           <li>🎓 Backend Developer – Java | Spring Boot</li>
@@ -32,9 +32,6 @@
           <li>🌐 Portfolio: <a href="https://sohilpalasara.github.io" target="_blank">sohilpalasara.github.io</a></li>
           <li>🔗 LinkedIn: <a href="https://linkedin.com/in/sohil-palasara-8152292a7" target="_blank">Sohil Palasara</a></li>
         </ul>
-      </td>
-      <td align="center" width="50%">
-      <img src="https://i.imgur.com/ABC1234.jpg" width="90%" alt="Java backend developer coding at PC" />
       </td>
     </tr>
   </table>
