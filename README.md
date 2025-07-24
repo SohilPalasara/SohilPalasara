@@ -1,34 +1,22 @@
 <h2 align="left"></h2>
 
-
+<!-- Intro GIF -->
 <div align="center">
   <img height="400" width="100%" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"  />
 </div>
 
-###
-
-<div align="left">
-</div>
-
-###
-
-<div align="left">
-</div>
-</div>
-<!-- 🔥 Banner -->
+<!-- Tech Banner GIF -->
 <div align="center">
   <img src="https://i.pinimg.com/originals/44/59/99/44599943a27e918b54ae94e6b2902d9c.gif" width="100%" height="300"/>
 </div>
 
-
-<!-- ✨ Typing Effect Name -->
+<!-- Typing Effect Name -->
 <h1 align="center">Hi 👋, I'm Sohil Palasara</h1>
 
 <!-- Typing Banner -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+👋,+I'm+Sohil+Palasara;Backend+Developer+💻;Java+%7C+Spring+Boot+%7C+MySQL+%7C+Docker+%7C+REST+API" />
 </div>
-
 
 ---
 
@@ -63,27 +51,27 @@
   </tr>
 
   <tr>
-    <td><b>Inventory Management System</b><br>Full-stack system to manage warehouse stock and users</td>
-    <td>Java, Spring Boot, MySQL, REST APIs</td>
-    <td><a href="https://github.com/sohilpalasara/inventory-app" target="_blank">View on GitHub</a></td>
+    <td><b>Inventory Management System</b><br>Full-stack inventory control platform</td>
+    <td>Java, Spring Boot, MySQL, REST API</td>
+    <td><a href="https://github.com/sohilpalasara/inventory-app" target="_blank">GitHub</a></td>
   </tr>
 
   <tr>
-    <td><b>User Authentication API</b><br>JWT-based login/registration using Spring Security</td>
-    <td>Java, Spring Boot, JWT, Spring Security</td>
-    <td>Coming Soon</td>
-  </tr>
-
-  <tr>
-    <td><b>Blog CMS Backend</b><br>API to manage blog posts, users, categories</td>
-    <td>Java, Spring Boot, PostgreSQL</td>
-    <td>Coming Soon</td>
-  </tr>
-
-  <tr>
-    <td><b>Student Management System</b><br>Backend for student data CRUD operations</td>
+    <td><b>Student Record System</b><br>CRUD APIs for student data management</td>
     <td>Java, Spring Boot, Hibernate</td>
-    <td>Coming Soon</td>
+    <td><a href="#" target="_blank">Coming Soon</a></td>
+  </tr>
+
+  <tr>
+    <td><b>Blog CMS API</b><br>RESTful APIs to manage blog posts & authors</td>
+    <td>Java, Spring Boot, PostgreSQL</td>
+    <td><a href="#" target="_blank">Coming Soon</a></td>
+  </tr>
+
+  <tr>
+    <td><b>JWT Auth API</b><br>Authentication & Authorization using JWT</td>
+    <td>Java, Spring Security, JWT</td>
+    <td><a href="#" target="_blank">Coming Soon</a></td>
   </tr>
 </table>
 
