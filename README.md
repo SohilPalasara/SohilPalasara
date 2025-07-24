@@ -2,7 +2,7 @@
 
 <!-- Intro GIF -->
 <div align="center">
-  <img height="400" width="100%" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"  />
+  <img height="400" width="100%" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" />
 </div>
 
 <!-- Tech Banner GIF -->
@@ -83,7 +83,7 @@
 - 🔭 Building secure & scalable APIs  
 - 📫 Email: **sohilpalasara10@gmail.com**  
 - 🌐 Portfolio: [sohilpalasara.github.io](https://sohilpalasara.github.io)  
-- 🔗 LinkedIn: [linkedin.com/in/sohil-palasara-8152292a7](https://linkedin.com/in/sohil-palasara-8152292a7)
+- 🔗 LinkedIn: [Sohil Palasara](https://linkedin.com/in/sohil-palasara-8152292a7)
 
 ---
 
@@ -103,15 +103,19 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Insights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sohilpalasara&show_icons=true&theme=react" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohilpalasara&layout=compact&theme=react" height="180"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sohilpalasara&show_icons=true&theme=transparent&hide_border=true&title_color=4c8eda&text_color=555" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohilpalasara&layout=compact&theme=transparent&hide_border=true&title_color=4c8eda&text_color=555" height="180" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohilpalasara&theme=transparent&hide_border=true&ring=4c8eda&fire=4c8eda&currStreakLabel=4c8eda" height="180" />
+</div>
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sohilpalasara&label=Profile%20views&color=blue" />
-</div>
+</div> 
