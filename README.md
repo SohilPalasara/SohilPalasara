@@ -59,19 +59,19 @@
   <tr>
     <td><b>Student Record System</b><br>CRUD APIs for student data management</td>
     <td>Java, Spring Boot, Hibernate</td>
-    <td><a href="#" target="_blank">Coming Soon</a></td>
+    <td><a href="#">Coming Soon</a></td>
   </tr>
 
   <tr>
     <td><b>Blog CMS API</b><br>RESTful APIs to manage blog posts & authors</td>
     <td>Java, Spring Boot, PostgreSQL</td>
-    <td><a href="#" target="_blank">Coming Soon</a></td>
+    <td><a href="#">Coming Soon</a></td>
   </tr>
 
   <tr>
     <td><b>JWT Auth API</b><br>Authentication & Authorization using JWT</td>
     <td>Java, Spring Security, JWT</td>
-    <td><a href="#" target="_blank">Coming Soon</a></td>
+    <td><a href="#">Coming Soon</a></td>
   </tr>
 </table>
 
@@ -103,6 +103,32 @@
 
 ---
 
+### 📄 Download My Resume
+
+<p align="center">
+  <a href="https://your-resume-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-blue?style=for-the-badge&logo=google-drive&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🌐 Portfolio Preview
+
+<p align="center">
+  <img src="https://via.placeholder.com/800x400.png?text=Portfolio+Preview+Coming+Soon" width="80%" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sohilpalasara&theme=flat&no-frame=true&margin-w=10" />
+</p>
+
+---
+
 ### 📊 GitHub Insights
 
 <div align="center">
@@ -113,6 +139,14 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sohilpalasara&theme=transparent&hide_border=true&ring=4c8eda&fire=4c8eda&currStreakLabel=4c8eda" height="180" />
 </div>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sohilpalasara/sohilpalasara/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
