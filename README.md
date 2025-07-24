@@ -1,5 +1,3 @@
-<h2 align="left"></h2>
-
 <!-- Intro GIF -->
 <div align="center">
   <img height="400" width="100%" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" />
@@ -20,16 +18,34 @@
 
 ---
 
-<p align="center">
-  🚀 Passionate about backend development and clean, scalable code. <br>
-  🛠️ Currently building enterprise-grade Spring Boot applications.
-</p>
+<!-- Developer Image & About Section Side-by-Side -->
+<!-- Developer Image & About Section Side-by-Side -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="left" width="50%">
+        <h3>🙋‍♂️ About Me</h3>
+        <ul>
+          <li>🎓 Backend Developer – Java | Spring Boot</li>
+          <li>🔐 Building secure & scalable REST APIs</li>
+          <li>📧 Email: <a href="mailto:sohilpalasara10@gmail.com"><b>sohilpalasara10@gmail.com</b></a></li>
+          <li>🌐 Portfolio: <a href="https://sohilpalasara.github.io" target="_blank">sohilpalasara.github.io</a></li>
+          <li>🔗 LinkedIn: <a href="https://linkedin.com/in/sohil-palasara-8152292a7" target="_blank">Sohil Palasara</a></li>
+        </ul>
+      </td>
+      <td align="center" width="50%">
+      <img src="https://i.imgur.com/ABC1234.jpg" width="90%" alt="Java backend developer coding at PC" />
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
-### 🛠️ Tech Stack
+### 🧰 Languages & Tools
 
-<div align="center">
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
@@ -37,53 +53,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40"/>
-</div>
-
----
-
-### 📂 Featured Projects
-
-<table>
-  <tr>
-    <th>🚀 Project</th>
-    <th>🧰 Tech Stack</th>
-    <th>🔗 Link</th>
-  </tr>
-
-  <tr>
-    <td><b>Inventory Management System</b><br>Full-stack inventory control platform</td>
-    <td>Java, Spring Boot, MySQL, REST API</td>
-    <td><a href="https://github.com/sohilpalasara/inventory-app" target="_blank">GitHub</a></td>
-  </tr>
-
-  <tr>
-    <td><b>Student Record System</b><br>CRUD APIs for student data management</td>
-    <td>Java, Spring Boot, Hibernate</td>
-    <td><a href="#">Coming Soon</a></td>
-  </tr>
-
-  <tr>
-    <td><b>Blog CMS API</b><br>RESTful APIs to manage blog posts & authors</td>
-    <td>Java, Spring Boot, PostgreSQL</td>
-    <td><a href="#">Coming Soon</a></td>
-  </tr>
-
-  <tr>
-    <td><b>JWT Auth API</b><br>Authentication & Authorization using JWT</td>
-    <td>Java, Spring Security, JWT</td>
-    <td><a href="#">Coming Soon</a></td>
-  </tr>
-</table>
-
----
-
-### 🙋‍♂️ About Me
-
-- 🎓 Backend Developer – Java | Spring Boot  
-- 🔭 Building secure & scalable APIs  
-- 📫 Email: **sohilpalasara10@gmail.com**  
-- 🌐 Portfolio: [sohilpalasara.github.io](https://sohilpalasara.github.io)  
-- 🔗 LinkedIn: [Sohil Palasara](https://linkedin.com/in/sohil-palasara-8152292a7)
+</p>
 
 ---
 
@@ -113,14 +83,6 @@
 
 ---
 
-### 🌐 Portfolio Preview
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Portfolio+Preview+Coming+Soon" width="80%" />
-</p>
-
----
-
 ### 🏆 GitHub Trophies
 
 <p align="center">
@@ -142,14 +104,6 @@
 
 ---
 
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sohilpalasara/sohilpalasara/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sohilpalasara&label=Profile%20views&color=blue" />
-</div> 
+</div>
